@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/gh/haoel/anti-baidu/badge)](https://www.jsdelivr.com/package/gh/haoel/anti-baidu)
+
 # Anti Baidu Script
 
 This the Javascript, if people visited your website through searching by Baidu, an Anti-Baidu Dialog will popuped.
